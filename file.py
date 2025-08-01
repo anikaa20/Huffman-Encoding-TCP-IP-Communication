@@ -8,6 +8,6 @@ def read_text_file(filename):
     return None
 
 # Example usage:
-filename = r'C:\\CODE\\Deadly_Python\\side projects\\test.txt'
+filename = r' ' # enter file path
 content = read_text_file(filename)
 print(content)
